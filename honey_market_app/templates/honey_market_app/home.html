@@ -1,0 +1,19 @@
+{% extends "honey_market_app/base.html" %}
+
+{% block content %}
+<div class="container spaced-top-5 black-bg">
+    <div class="row">
+        <div class="col">
+            <div class="row">
+                <h1 class="heading-title">Miere naturala<br>"Mens sana in corpore sano"</h1>
+            </div>
+            <a href="{% url 'honey_market_app:products' %}">
+                <button class="btn-custom spaced-top-2">PRODUSE</button>
+            </a>
+        </div>
+        <div class="col">
+            {% include "honey_market_app/carousel.html" %}
+        </div>
+    </div>
+</div>
+{% endblock %}
