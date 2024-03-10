@@ -3,7 +3,6 @@ APLICATIA web Honey_market
 DESCRIEARE
 Honey_market este o aplicatie web creata pentru comercializarea online a produselor apicole. 
 Platforma este structurata intuitiv si permite oricarui vizitator sa acceseze informatii despre produse sau sa trimita mesaje catre comerciant. Orice utilizator poate initia si transmite comenzi pentru produsele aflate in stoc, ulterior crearii unui cont.
-Git clone https://github.com/MAG1310/Honey_market.git
 
 TOOL-URI NECESARE
 Python: limbaj de programare;
