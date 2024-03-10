@@ -5,11 +5,11 @@ Honey_market este o aplicatie web creata pentru comercializarea online a produse
 Platforma este structurata intuitiv si permite oricarui vizitator sa acceseze informatii despre produse sau sa trimita mesaje catre comerciant. Orice utilizator poate initia si transmite comenzi pentru produsele aflate in stoc, ulterior crearii unui cont.
 
 TOOL-URI NECESARE
-Python: limbaj de programare;
-Django: framework;
-Pycharm: IDE (Integrated Development Environment);
-SQLiteStudio: baza de date;
-HTML, CSS, JS: crearea paginii web și stilizarea acestora;
+- Python: limbaj de programare;
+- Django: framework;
+- Pycharm: IDE (Integrated Development Environment);
+- SQLiteStudio: baza de date;
+- HTML, CSS, JS: crearea paginii web și stilizarea acestora;
 
 ISTALARE SI RULARE APLICATIE
 - se cloneaza repository: git clone https://github.com/MAG1310/Honey_market.git
