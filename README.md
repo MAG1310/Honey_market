@@ -6,8 +6,8 @@ Platforma este structurata intuitiv si permite oricarui vizitator sa acceseze in
 
 TOOL-URI NECESARE:
 - Python: limbaj de programare
-- Django: framework
 - Pycharm: IDE (Integrated Development Environment)
+- Django: framework
 - SQLiteStudio: baza de date
 - HTML, CSS, JS: creare pagini web și stilizare
 
@@ -16,5 +16,5 @@ ISTALARE SI RULARE APLICATIE:
 - se creaza un mediu virtual:py -m venv venv
 - source/venv/bin/activate
 - se verifica cerinta: pip install -r requirements.txt
-- comanda pentru rularea aplicaitei python manage.py runserver
+- se ruleaza aplicatia: python manage.py runserver
 ![Home](https://github.com/MAG1310/Honey_market/assets/145273133/4d5c6336-9d52-4af2-8d5d-3676b10a64d8)
