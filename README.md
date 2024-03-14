@@ -9,7 +9,7 @@ TOOL-URI NECESARE:
 - Django: framework
 - Pycharm: IDE (Integrated Development Environment)
 - SQLiteStudio: baza de date
-- HTML, CSS, JS: creare paginii web și stilizare
+- HTML, CSS, JS: creare pagini web și stilizare
 
 ISTALARE SI RULARE APLICATIE:
 - se cloneaza repository: git clone https://github.com/MAG1310/Honey_market.git
