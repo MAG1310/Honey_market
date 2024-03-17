@@ -6,10 +6,10 @@ Interfata aplicatiei este intuitiva si permite oricarui utilizator sa acceseze i
 
 TOOL-URI NECESARE:
 - DOWNLOAD:
--   Python: https://www.jetbrains.com/pycharm/download/)
--   Pycharm: (https://www.jetbrains.com/pycharm/download/)
+-     Python: https://www.jetbrains.com/pycharm/download/)
+-     Pycharm: (https://www.jetbrains.com/pycharm/download/)
 -   Clonare repository: git clone https://github.com/MAG1310/Honey_market.git
-- PYCHARM:
+- In PYCHARM:
 -   Open repository
 -   In Command Prompt:
 -     Install dependencies: pip install -r requirements.txt
