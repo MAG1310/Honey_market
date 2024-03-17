@@ -4,7 +4,7 @@ DESCRIERE:
 Honey_market este o aplicatie web creata in IDE PyCharm, cu limbajul de programare python si framework-ul Django, folosind baze de date SQLite si realizand pagini web cu HTML, CSS si JS.
 
 
-TOOL-URI NECESARE:
+TOOL-URI NECESARE pentru RULAREA aplicatiei:
 - DOWNLOAD:
 -     Python: https://www.python.org/downloads/)
 -     Pycharm: (https://www.jetbrains.com/pycharm/download/)
