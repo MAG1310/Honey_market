@@ -1,7 +1,7 @@
 APLICATIE web Honey_market
 
 DESCRIERE:
-Honey_market este o aplicatie web creata in IDE PyCharm, cu limbajul de programare python si framework-ul Django. Aplicatia cuprinde setari de functionalitate si dezvoltare a aplicatiei (baze de date SQLite, creare pagini web si stilizare HTML, CSS, JS)
+Honey_market este o aplicatie web creata in IDE PyCharm, cu limbajul de programare python si framework-ul Django. Aplicatia cuprinde setari de functionalitate si dezvoltare a aplicatiei (baze de date SQLite, creare pagini web si stilizare HTML, CSS, JS).
 Interfata aplicatiei este intuitiva si permite oricarui utilizator sa acceseze informatii despre produse sau sa trimita mesaje catre comerciant. In baza crearii unui cont, orice utilizator poate initia si transmite comenzi pentru produsele aflate in stoc.
 
 TOOL-URI NECESARE:
