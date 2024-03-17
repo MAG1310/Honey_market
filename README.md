@@ -9,8 +9,8 @@ TOOL-URI NECESARE pentru RULAREA aplicatiei:
 -     Python: https://www.python.org/downloads/)
 -     Pycharm: (https://www.jetbrains.com/pycharm/download/)
 -   Clonare repository: git clone https://github.com/MAG1310/Honey_market.git
-- In PYCHARM:
--   Open repository
+- DESCHIDE PYCHARM:
+-   Open repository .../Honey_market
 -   In Command Prompt:
 -     Install dependencies: pip install -r requirements.txt
 -                           python -m venv venv
