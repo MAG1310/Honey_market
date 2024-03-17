@@ -1,20 +1,20 @@
 APLICATIE web Honey_market
 
 DESCRIERE:
-Honey_market este o aplicatie web creata pentru comercializarea online a produselor apicole. 
-Platforma este structurata intuitiv si permite oricarui vizitator sa acceseze informatii despre produse sau sa trimita mesaje catre comerciant. Orice utilizator poate initia si transmite comenzi pentru produsele aflate in stoc, ulterior crearii unui cont.
+Honey_market este o aplicatie web creata in IDE PyCharm, cu limbajul de programare python si framework-ul Django. Aplicatia cuprinde setari de functionalitate si dezvoltare a aplicatiei (baze de date SQLite, creare pagini web si stilizare HTML, CSS, JS)
+Interfata aplicatiei este intuitiva si permite oricarui utilizator sa acceseze informatii despre produse sau sa trimita mesaje catre comerciant. In baza crearii unui cont, orice utilizator poate initia si transmite comenzi pentru produsele aflate in stoc.
 
 TOOL-URI NECESARE:
-- Python: limbaj de programare
-- Pycharm: IDE (Integrated Development Environment)
-- Django: framework
-- SQLiteStudio: baza de date
-- HTML, CSS, JS: creare pagini web și stilizare
+- DOWNLOAD:
+-   Python: https://www.jetbrains.com/pycharm/download/)
+-   Pycharm: (https://www.jetbrains.com/pycharm/download/)
+-   Clonare repository: git clone https://github.com/MAG1310/Honey_market.git
+- PYCHARM:
+-   Open repository
+-   In Command Prompt:
+-     Install dependencies: pip install -r requirements.txt
+-                           python -m venv venv
+-                           source/venv/bin/activate
+-     Run app: python manage.py runserver
 
-ISTALARE SI RULARE APLICATIE:
-- se cloneaza repository: git clone https://github.com/MAG1310/Honey_market.git
-- se creaza un mediu virtual:py -m venv venv
-- source/venv/bin/activate
-- se verifica cerinta: pip install -r requirements.txt
-- se ruleaza aplicatia: python manage.py runserver
 ![Home](https://github.com/MAG1310/Honey_market/assets/145273133/4d5c6336-9d52-4af2-8d5d-3676b10a64d8)
